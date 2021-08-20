@@ -1,5 +1,5 @@
 
-<table>
+<table width="100%" style="margin-left:auto;margin-right:auto;">
     <tbody>
         <tr>
             <td style="text-align: center; vertical-align: middle;"><h3> ToolKit 🛠 </h3></td>
@@ -32,12 +32,20 @@
         </tr>
         <tr>
         </tr>
+        <tr><td colspan=2 style="text-align: center; vertical-align: middle;">
+        <h2> Social </h2>
+        <p><a href="https://www.linkedin.com/in/stephen-wallen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a><a href="https://open.spotify.com/user/wisewallen?si=7978c32273044e80"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&amp;logo=spotify&amp;logoColor=white" alt="Spotify"></a></p>
+        </td>
+        <tr>
+        <td colspan = 2 style="text-align: center; vertical-align: middle;">
+        </br>
+        <p><img src="https://github-readme-stats.vercel.app/api?username=a-wallen&amp;show_icons=true&amp;theme=dracula&amp;count_private=true" alt="Alex&#39;s GitHub Stats"></br>
+        <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=a-wallen&amp;theme=dark" alt="GitHub Streak"></a></p>
+        </td>
+        </tr>
+        </tr>
     </tbody>
 </table>
 
 
-# social
-> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-wallen/)[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wisewallen?si=7978c32273044e80)
-
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-wallen&show_icons=true&theme=dracula&count_private=true)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=a-wallen&theme=dark)](https://git.io/streak-stats)
 - 💬 We can have a chat about ideas over LinkedIn. Contact me using the link.
