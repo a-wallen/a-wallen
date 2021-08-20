@@ -11,6 +11,6 @@
 ## social
 > [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-wallen/)[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wisewallen?si=7978c32273044e80)
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-wallen&show_icons=true&theme=dracula&count_private=true)
-
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-wallen&show_icons=true&theme=dracula&count_private=true)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=a-wallen)](https://git.io/streak-stats)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wisewallen&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 - 💬 We can have a chat about ideas over LinkedIn. Contact me using the link.
