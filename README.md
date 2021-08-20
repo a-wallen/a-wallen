@@ -4,7 +4,7 @@
         <tr>
             <td style="text-align: center; vertical-align: middle;"><h3> ToolKit 🛠 </h3></td>
             <td style="text-align: center; vertical-align: middle;">
-                <h3>Music Junkie</h3>
+                <h3>Music Junkie 🔊 </h3>
             </td>
         </tr>
         <tr>
