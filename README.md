@@ -1,3 +1,4 @@
+
 <table width="100%" style="margin-left:auto;margin-right:auto;">
     <tbody>
         <tr>
@@ -12,7 +13,9 @@
             </td>
             <td rowspan=3>
                 </br>
-                <p><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=wisewallen&amp;cover_image=true&amp;theme=default" alt="spotify-github-profile"></a></p>
+                <p>
+                    <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=wisewallen&amp;cover_image=true&amp;theme=compact" alt="spotify-github-profile"></a>
+                </p>
             </td>
         </tr>
         <tr>
